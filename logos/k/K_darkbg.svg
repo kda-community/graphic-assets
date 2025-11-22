@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="34.987309mm"
+   height="34.987305mm"
+   viewBox="0 0 34.987309 34.987305"
+   version="1.1"
+   id="svg13115"
+   sodipodi:docname="K_darkbg.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13832"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs13112" />
+  <g
+     id="layer1"
+     transform="translate(-88.158589,-129.84022)">
+    <g
+       id="g13238"
+       transform="translate(-1470.2252,-629.47625)">
+      <rect
+         style="fill:#1e1f23;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stop-color:#000000"
+         id="rect19605-9-3"
+         width="34.987305"
+         height="34.987305"
+         x="1558.3838"
+         y="759.31647" />
+      <path
+         id="path5057-4-6-1-14-5-5-3-1-7-7-3-8-3-7-8-7-3"
+         style="font-weight:bold;font-size:6.40545px;line-height:1;font-family:'Space Grotesk';-inkscape-font-specification:'Space Grotesk Bold';fill:#63e038;fill-opacity:1;stroke-width:2.80293"
+         d="m 1565.4656,764.96802 v 11.0539 h 10.0932 l 10.3561,-11.0539 h -6.3293 l -9.176,9.30504 v -9.30504 z m 0,12.43757 v 11.2465 h 4.944 v -9.49897 l 8.5892,9.49897 h 7.2906 l -10.5901,-11.2465 z" />
+    </g>
+  </g>
+</svg>

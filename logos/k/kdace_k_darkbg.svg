@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="34.987305mm"
+   height="34.987305mm"
+   viewBox="0 0 34.987305 34.987305"
+   version="1.1"
+   id="svg1202"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1199"><style
+       id="style59759">
+      .card { fill: #f3e6cf; stroke: #d6c8ad; stroke-width: 3; rx: 12; ry: 12; }
+      .hole { fill: #ffffff; stroke: #dcdcdc; stroke-width: 1.2; rx: 6; ry: 6; }
+      .solid { fill: #1f1f1f; }
+      .label { font-family: &quot;Courier New&quot;, Courier, monospace; font-size: 14px; fill: #333333; }
+      .title { font-family: &quot;Courier New&quot;, Courier, monospace; font-size: 20px; font-weight:700; fill: #111111; }
+      .bitnum { font-family: &quot;Courier New&quot;, Courier, monospace; font-size: 12px; fill: #444444; }
+      .note { font-family: &quot;Courier New&quot;, Courier, monospace; font-size: 12px; fill: #333333; opacity: 0.9; }
+      .frame { fill: none; stroke: rgba(0,0,0,0.04); stroke-width: 2; rx: 10; ry: 10; }
+    </style><style
+       id="style60322">
+      .card { fill: #f7f2e7; stroke: #e0d3b8; stroke-width: 3; rx: 12; ry: 12; }
+      .hole { fill: #ffffff; stroke: #dcdcdc; stroke-width: 1.2; rx: 8; ry: 8; }
+      .solid { fill: #232323; }
+      .label { font-family: &quot;Courier New&quot;, Courier, monospace; font-size: 14px; fill: #333333; }
+      .title { font-family: &quot;Courier New&quot;, Courier, monospace; font-size: 18px; font-weight:700; fill: #111111; }
+      .bitnum { font-family: &quot;Courier New&quot;, Courier, monospace; font-size: 12px; fill: #444444; }
+      .note { font-family: &quot;Courier New&quot;, Courier, monospace; font-size: 12px; fill: #333333; opacity: 0.95; }
+      .frame { fill: none; stroke: rgba(0,0,0,0.05); stroke-width: 2; rx: 10; ry: 10; }
+    </style></defs><g
+     id="layer1"
+     transform="translate(-3024.3973,-2336.9468)"><g
+       id="g29569"><rect
+         style="fill:#1e1f23;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stop-color:#000000"
+         id="rect19605-9-3-1-6-8-0"
+         width="34.987305"
+         height="34.987305"
+         x="3024.3972"
+         y="2336.9468" /><g
+         id="g29291-2-8"
+         transform="matrix(1.8421685,0,0,1.8421685,-550.9599,1075.0679)"><path
+           style="font-weight:bold;font-size:6.40545px;line-height:1;font-family:'Space Grotesk';-inkscape-font-specification:'Space Grotesk Bold';fill:#63e038;fill-opacity:1;stroke-width:1.90931"
+           d="m 1950.5138,695.21469 h -7.2686 v 7.34426 h 3.3676 v -6.47025 l 5.851,6.47025 h 4.9665 z"
+           id="path10229-8-9-71-1-7-9-4-7-9-9-9-8" /><path
+           style="font-weight:bold;font-size:6.40545px;line-height:1;font-family:'Space Grotesk';-inkscape-font-specification:'Space Grotesk Bold';fill:#63e038;fill-opacity:1;stroke-width:1.90931"
+           d="m 1943.2452,686.42637 v 7.34425 h 7.049 l 6.8805,-7.34425 h -4.3113 l -6.2506,6.33849 v -6.33849 z"
+           id="path5057-4-6-1-14-5-2-2-7-8-2-15-0-5-0-6-7-1-77-3-5" /></g></g></g></svg>
